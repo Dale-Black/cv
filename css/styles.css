@@ -1,0 +1,25 @@
+body {
+  background-color: #ecffff;
+}
+
+h1 {
+    color: #393e46;
+}
+
+h3 {
+    color: #71c9ce;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+/*******************************CLASS SELECTORS*******************************/
+
+.circular {
+    border-radius: 100%;
+}
